@@ -1,3 +1,6 @@
+# A simple script to update blocked malicious IPs file for DNSCrypt-Proxy
+# DNSCrypt-Proxy 2: https://github.com/DNSCrypt/dnscrypt-proxy
+#
 # Choose the level that suits you, more information found here:
 # https://github.com/stamparm/ipsum
 # https://github.com/stamparm/ipsum/tree/master/levels
